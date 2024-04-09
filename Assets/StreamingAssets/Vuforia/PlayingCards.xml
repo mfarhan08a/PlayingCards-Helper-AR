@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="jc" size="1.000000 1.560976" />
+    <ImageTarget name="js" size="1.000000 1.547389" />
+    <ImageTarget name="kc" size="1.000000 1.547389" />
+    <ImageTarget name="kh" size="1.000000 1.555806" />
+    <ImageTarget name="qc" size="1.000000 1.565558" />
+    <ImageTarget name="qh" size="1.000000 1.531101" />
+    <ImageTarget name="qs" size="1.000000 1.553398" />
+    <ImageTarget name="9d" size="1.000000 1.532567" />
+    <ImageTarget name="ad" size="1.000000 1.567091" />
+    <ImageTarget name="10d" size="1.000000 1.553398" />
+    <ImageTarget name="jd" size="1.000000 1.557936" />
+    <ImageTarget name="qd" size="1.000000 1.564027" />
+    <ImageTarget name="kd" size="1.000000 1.529637" />
+  </Tracking>
+</QCARConfig>

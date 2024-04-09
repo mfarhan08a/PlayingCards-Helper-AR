@@ -1,0 +1,4 @@
+repository "PlayingCards Helper AR@unity_QWXZFdjSMXl0KQ@cloud"
+  path "/"
+    br "/main"
+    co "/main"
